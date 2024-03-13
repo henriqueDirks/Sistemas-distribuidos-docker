@@ -2,7 +2,7 @@
 
 # Sistemas Distribuidos API Node.js 
 
-Esta é uma aplicação Node.js básica que fornece uma API para gerenciar uma lista de usuários.
+Esta é uma aplicação Node.js que fornece uma API para gerenciar uma lista de usuários.
 
 ## Configuração
 
