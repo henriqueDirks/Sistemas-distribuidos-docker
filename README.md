@@ -10,7 +10,7 @@ Esta é uma aplicação Node.js que fornece uma API para gerenciar uma lista de 
 2. Clone este repositório usando o seguinte comando:
 
 ```bash
-git clone [https://github.com/seu-usuario/node-api.git](https://github.com/775PedroCmd/Docker-SistemasDistribuidos)
+git clone https://github.com/775PedroCmd/Docker-SistemasDistribuidos
 ```
 
 3. Navegue até o diretório do projeto:
